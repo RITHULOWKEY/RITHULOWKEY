@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rithika 👋
 
-<!--
-**RITHULOWKEY/RITHULOWKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Development Engineer | Java & DSA | AWS Cloud | AI/ML
 
-Here are some ideas to get you started:
+- 🎓 Third-year Computer Science student at Easwari Engineering College
+- 💻 Practicing Java, Data Structures & Algorithms daily — arrays, recursion, backtracking, dynamic programming
+- 🤖 Exploring AI/ML through small, hands-on projects
+- 🎯 Currently looking for SDE internship/full-time opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+`Java` `Python` `Data Structures & Algorithms`
+
+## 📌 Featured Project
+**[Smart Attendance System](https://github.com/RITHULOWKEY/smart-attendance-system)** — automated attendance tracking system.
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rithika-k-18a93832a/
+- Email: rithikakameshwaran660@gmail.com
+
+---
+Currently solving DSA problems and building AI/ML projects.
