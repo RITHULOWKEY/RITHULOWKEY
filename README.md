@@ -1,19 +1,10 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Rithika K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rithika%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=58&descSize=20"/>
 
-### Computer Science Engineering Student | Aspiring Software Engineer | AI/ML Enthusiast
-
-<p>
-  <a href="https://github.com/RITHULOWKEY">
-    <img src="https://img.shields.io/badge/GitHub-RITHULOWKEY-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rithika-k-18a93832a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=RITHULOWKEY&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer;Java+%7C+Python+%7C+DSA;AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real-World+Projects"/>
 
 </div>
 
@@ -21,130 +12,83 @@
 
 ## 👩‍💻 About Me
 
-I'm a **3rd-year Computer Science Engineering student** with a strong interest in **Software Engineering, Data Structures & Algorithms, Artificial Intelligence, and Machine Learning**.
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I enjoy solving programming problems, learning new technologies, and building practical applications that solve real-world problems.
+🎓 Computer Science Engineering Student
 
-### 🚀 What I'm Focused On
+💻 Aspiring Software Development Engineer
 
-- 💻 Strengthening **Java and Data Structures & Algorithms**
-- 🤖 Building **AI/ML and Generative AI applications**
-- 🌐 Developing **full-stack and backend applications**
-- ☁️ Learning **AWS and cloud technologies**
-- 🏗️ Improving **software engineering and system design skills**
-- 📚 Preparing for **Software Engineering and AI/ML opportunities**
+🧠 Interested in AI/ML & Intelligent Applications
+
+☕ Java + DSA learner
+
+🌐 Full-Stack Development Enthusiast
+
+🚀 Building real-world software projects
+
+📍 Chennai, India
+
+### 🎯 Current Focus
+
+- Data Structures & Algorithms
+- Java Development
+- Backend Development
+- AI/ML Applications
+- REST APIs
+- SQL & Databases
+- System Design Fundamentals
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+# ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+
 </p>
 
-**Java • Python • SQL**
+### 🌐 Web Development
 
-### 🤖 AI / Machine Learning
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**NumPy • Pandas • Scikit-learn • Matplotlib • Machine Learning • Generative AI**
-
-### 🌐 Web & Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
+
 </p>
 
-**HTML • CSS • React • TypeScript • FastAPI • REST APIs**
+### 🤖 AI / ML
 
-### 🗄️ Database & Cloud
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,aws" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
 </p>
 
-**MySQL • AWS • Cloud Fundamentals**
+### 🗄️ Databases & Tools
 
-### 🔧 Development Tools
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma" />
+
 </p>
 
-**Git • GitHub • VS Code • Jupyter Notebook • Google Colab**
-
 ---
 
-# 🚀 Featured Projects
+# 🧠 DSA Journey
 
-## 🏫 Smart Attendance Management System
+<div align="center">
 
-### AI-powered multi-factor attendance verification system
+<img src="https://img.shields.io/badge/DSA-300%2B%20Problems-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-A smart attendance platform designed to improve attendance accuracy by combining multiple verification mechanisms.
+<img src="https://img.shields.io/badge/Java-Problem%20Solving-orange?style=for-the-badge&logo=java"/>
 
-### 🔑 Key Features
+<img src="https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode"/>
 
-- 📍 GPS-based geofencing
-- 📡 BLE beacon classroom verification
-- 👤 Face recognition
-- 🛡️ Liveness verification
-- 👨‍🎓 Student, Teacher and Admin roles
-- 🕒 Timetable and classroom validation
-- 🔐 JWT authentication
-- ⚡ REST APIs
-- 🗄️ MySQL database
-
-### 🧰 Technologies
-
-`React` `TypeScript` `FastAPI` `Python` `MySQL` `GPS` `BLE` `Computer Vision`
-
-🔗 **Repository:**  
-https://github.com/RITHULOWKEY/smart-attendance-system
-
----
-
-## 📊 Sales Forecasting & Revenue Prediction
-
-A machine learning project focused on analyzing historical sales data and predicting future sales and revenue trends.
-
-### 🔑 Key Areas
-
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Data visualization
-- Machine learning
-- Model evaluation
-- Sales and revenue prediction
-
-### 🧰 Technologies
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter Notebook`
-
----
-
-## 🤖 AI / ML Projects
-
-I'm continuously exploring and building projects involving:
-
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 👁️ Computer Vision
-- 📊 Data Analysis
-- 🔮 Predictive Modeling
-- 🗣️ AI-powered applications
-
----
-
-# 🧠 Data Structures & Algorithms
-
-I am actively strengthening my **problem-solving and DSA skills using Java**.
+</div>
 
 ### 📚 Topics I'm Practicing
 
@@ -152,15 +96,12 @@ I am actively strengthening my **problem-solving and DSA skills using Java**.
 Arrays
 Strings
 Hashing
-Sorting
-Searching
-Binary Search
 Two Pointers
 Sliding Window
 Stack & Queue
 Linked List
-Recursion
+Binary Search
 Trees
-Binary Search Trees
 Graphs
+Greedy
 Dynamic Programming
