@@ -128,19 +128,6 @@ A machine learning project focused on analyzing historical sales data and predic
 
 ---
 
-## 🤖 AI / ML Projects
-
-I'm continuously exploring and building projects involving:
-
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 👁️ Computer Vision
-- 📊 Data Analysis
-- 🔮 Predictive Modeling
-- 🗣️ AI-powered applications
-
----
-
 # 🧠 Data Structures & Algorithms
 
 I am actively strengthening my **problem-solving and DSA skills using Java**.
